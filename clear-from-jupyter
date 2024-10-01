@@ -1,0 +1,6 @@
+pip install nbstripout
+
+
+cd "C:/Users/User/python/Artificial intelligence/2-Maze"
+
+nbstripout Maze.ipynb
